@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.6",
+    "cors": "^2.8.5",
+    "formidable": "^3.5.1",
+    "react-redux": "^8.1.2",
+    "stripe": "^14.16.0",
+    "uuid": "^9.0.1"
+  }
+}
